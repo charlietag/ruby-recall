@@ -1,2 +1,2 @@
-* Purpose
-** Try to recall my memory of ruby
+# Purpose
+* Try to recall my memory of ruby
